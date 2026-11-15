@@ -37,7 +37,7 @@ except ImportError as e:
 except Exception as e:
     print(f"❌ Ocurrió un error inesperado: {e}")
 
-
+# CASO 1
     # Celda 3: Carga de datos y preparación
 import pyreadstat
 import duckdb
